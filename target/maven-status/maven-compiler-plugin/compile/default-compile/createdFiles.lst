@@ -1,0 +1,13 @@
+br\com\germano\model\Url.class
+br\com\germano\model\Statistic.class
+br\com\germano\service\RetrieveServiceBean.class
+br\com\germano\Singleton.class
+br\com\germano\service\RetrieveService.class
+br\com\germano\controller\RetrieveController.class
+br\com\germano\DesafioApplication.class
+br\com\germano\repository\ShortenRepository.class
+br\com\germano\service\ShortenService.class
+br\com\germano\service\ShortenServiceBean.class
+br\com\germano\controller\ShortenController.class
+br\com\germano\utils\AliasUtil.class
+br\com\germano\model\Error.class
